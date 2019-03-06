@@ -1,4 +1,4 @@
-This zip file contains 10 datasets, source code and a brief summary of performance evaluation.
+It contains 10 datasets, source code and a brief summary of performance evaluation.
 
 The source code of this program is written in python 3. Please run this program directly and it shows the performance of prediction for 10 different datasets.
 
